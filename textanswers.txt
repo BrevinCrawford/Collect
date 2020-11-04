@@ -1,0 +1,3 @@
+I would use set, then make it equal to something with new then HashSet.
+The difference is that Hashmap doesnt have a specific order of the elements.
+I would use TreeMap since it has a specific order of elements
